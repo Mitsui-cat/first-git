@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("master path 1");
         System.out.println("hot-fix path 1");
         System.out.println("push-test");
+        System.out.println("pull-test");
     }
 }
